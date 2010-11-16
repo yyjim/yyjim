@@ -1,0 +1,17 @@
+tmp
+log
+vendor/gems
+config/facebooker_development.yml
+config/rest-graph_development.yaml
+data.dump
+db/data.yml
+db/development_structure.sql
+.project
+.loadpath
+*~
+.DS_Store
+*/.DS_Store
+.bundle
+.logworm
+lib/tasks/create_local_gifts.rake
+vendor/plugins/attachment_fu/test/debug.log
